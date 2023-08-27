@@ -1,0 +1,50 @@
+ДЛЯ АНАЛИЗА НИШИ 
+
+➡️ПРОМТ для анализа ниши: 
+PROMT: Act as high expirienced SEO-specialist with strong marketing background and analyze the [fishing equipment] niche and provide me an overview of its current state, popular subtopics, and potential opportunities to get search traffic in this niche. Provide information which goods are included in each subtopic. Recommend me less competitive subtopic with high traffic potential and 10 sub-sub topics for this subtopic 
+ 
+➡️ПРОМТ для получения структуры сайта в целевой нише: 
+PROMT: Outline a recommended structure for a content site focusing on the [fishing equipment] niche, including categories and subcategories that cater to the interests of the target audience. 
+Prompt for content ideas: 
+PROMT: Provide a list of high-potential content ideas within the [fishing equipment] niche that are likely to generate Google search traffic quickly. 
+Добавляем PROMT: Provide traffic potential for each topic 
+//Рассчитает трафиковый потенциал каждого топика
+Добавляем PROMT: Now group these content ideas by traffic potentinal and provide it as a table: 
+First column: topic name 
+Second column: traffic potential 
+Third column:The main topic to which this article belongs
+//Сделает красивую сводную табличку
+
+ 
+ДЛЯ ТОВАРКИ
+ПРОМТ покажет все основные товарные категории в нише
+➡️PROMT: I'm writing for my amazon niche affiliate blog about fishing - can you give me list of potential objects that people may need when the go fishing? The nicher the better, just give me list, don't give details. 
+
+Получаем примеры того товаров которые могут пригодиться в этой нише.
+
+Далее просим чат притвориться владельцем сайта и дать список статей, которые можно написать в этой нише:
+ 
+ПОЛУЧАЕМ ИДЕИ ДЛЯ СТАТЕЙ
+ 
+➡️PROMT: Act as owner of this website with strong background as SEO-specialist. Which articles you advice to add to this website first to get as much as possible relevant search traffic from Google. Provide 10 recomendations 
+
+PROMT ДЛЯ АНАЛИЗА КЛЮЧЕЙ В НИШЕ
+ 
+➡️PROMT: Generate a comprehensive list of long-tail keywords related to the niche for the following seed keywords: {Spinning reels}. Ensure that the generated keywords are relevant, targeted, and have the potential for high search volume and low competition 
+ 
+
+ДЛЯ РАСШИРЕНИЯ СЕМЕНТИКИ
+ 
+➡️PROMT: Here is list of my best and most important pages pages. Please give me 10-20 ideas of more blog posts for my affliate blog that will rank in Google and attract more search traffic 
+ 
+
+SILO СТРУКТУРА 
+ПРОМТ - который сделает готовую структуру 
+ 
+➡️Простая версия 
+PROMT: Create a detailed SILO structure for an website using the keyword: fishing gear. The sections and categories should be organized in a hierarchical structure, with the Home page at the top and the more specific pages at the bottom. Use the knowledge of how to make the best structure in terms of linking and SEO to get to the top positions in Google. All output should be in English. 
+ 
+➡️Advanced версия  
+PROMT: Create a detailed SILO structure for an website using the keyword: fishing gear. The sections and categories should be organized in a hierarchical structure, with the Home page at the top and the more specific pages at the bottom. Use the knowledge of how to make the best structure in terms of linking and SEO to get to the top positions in Google. All output should be in English. 
+Then add 3-4 subtopics for Level 2 elements 
+When you will finish with structure - wrap it to the table with appropriate Level of nesting
